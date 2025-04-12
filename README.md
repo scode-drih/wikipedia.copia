@@ -4,7 +4,7 @@ Este repositório foi criado como parte de um desafio numero 3 (desafio final) d
 
 
 
-🔗 **Veja o site online:** [Clique aqui](https://scode-drih.github.io/wikipedia.copia/](https://scode-drih.github.io/wikipedia.copia/)
+🔗 **Veja o site online:** [Clique aqui](https://scode-drih.github.io/wikipedia.copia/)
 
 
 ## 🛠️ **Tecnologias Utilizadas**
